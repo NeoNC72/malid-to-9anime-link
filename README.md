@@ -1,6 +1,6 @@
 # MAL id to 9anime.to link
 PHP file to get 9anime link from MAL id.
-json file is sometimes updated.
+Json file is sometimes updated.
 
 usage:
 /api.php?id=ID
