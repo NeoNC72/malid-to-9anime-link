@@ -56,9 +56,6 @@ try{
   }catch (ErrorException $ee) {
     echo "https://9anime.to/";
   }
-  
-  
-
 }
 
 ?>

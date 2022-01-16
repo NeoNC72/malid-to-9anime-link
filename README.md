@@ -6,3 +6,8 @@ usage:
 /api.php?id=ID
 
 returns https://9anime.to if anime not on 9anime or on error
+
+
+names.json - All anime
+
+namesedited.json - Only subbed anime
